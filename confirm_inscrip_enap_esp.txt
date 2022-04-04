@@ -1,0 +1,29 @@
+[titulo_evento_correo]
+
+[fecha]
+
+
+[calidad] [nombre] [apellido]
+[cargo]
+[razon_social]
+[ciudad]
+[pais]
+
+
+Estimado(a) [apellido]:
+
+Gracias por diligenciar el formulario de registro para asistir al [titulo_evento]. Confirmamos que su registro fue correctamente procesado y en poco tiempo le informaremos el estado de su inscripción.
+
+Sus datos de ingreso son:
+[url]
+- Nombre de usuario: [login]
+- Clave: [clave]
+ 
+Ingresando a este sitio, el sistema le permitirá:
+- Modificar los datos de su empresa
+- Modificar sus datos personales
+- Inscribir a otra persona de su empresa que desee participar en el evento
+ 
+Cordialmente, 				
+Colombia IR 2022
+[firma]
